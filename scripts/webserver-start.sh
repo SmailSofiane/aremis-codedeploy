@@ -1,3 +1,3 @@
 #!/bib/bash
 
-/etc/init.d/httpd start
+../../etc/init.d/httpd start
